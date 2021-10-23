@@ -42,5 +42,6 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-0769AD?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&theme=dracula">
 
