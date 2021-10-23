@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?section=header&type=waving&reversal=false&height=230&text=Aiow-dev&fontColor=fcefee&desc=back-end%20developer&animation=fadeIn&&color=0:0480FF,100:2F238B&fontAlignY=30&descAlignY=50&fontAlign=78&descAlign=75" width="100%">
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&reversal=false&height=230&text=Aiow-dev&fontColor=fcefee&desc=Python%20developer&animation=fadeIn&&color=0:0480FF,100:2F238B&fontAlignY=30&descAlignY=50&fontAlign=78&descAlign=86" width="100%">
 
 ## Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,4 +44,6 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula">
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&theme=dracula">
+
+<img src="https://raw.githubusercontent.com/Aiow-dev/Aiow-dev/output/github-contribution-grid-snake.svg" width="100%">
 
