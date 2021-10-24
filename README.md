@@ -36,8 +36,16 @@ Here are some ideas to get you started:
 ![IntellijIDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![SublimeText](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
+
 
 ## Technologies I want to learn in the future:
+![PyPy](https://img.shields.io/badge/PyPy-193440?style=for-the-badge&logo=pypy&logoColor=white)
+![PyUp](https://img.shields.io/badge/PyUp-9F55FF?style=for-the-badge&logo=pyup&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JiraSoftware](https://img.shields.io/badge/JiraSoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-0769AD?style=for-the-badge&logo=tailwindcss&logoColor=white)
