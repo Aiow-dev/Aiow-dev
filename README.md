@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Aiow-dev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&theme=dracula">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula">
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT">
 </p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT">
 
 <img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github-contribution-grid-snake.svg" width="100%">
