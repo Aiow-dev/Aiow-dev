@@ -1,4 +1,4 @@
-### Hi, I'm Ilya Tsybulenok! 👋
+### Hi, I'm Ilya Tsybulenok! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 <!--
 **Aiow-dev/Aiow-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
