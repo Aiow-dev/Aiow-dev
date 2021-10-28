@@ -50,11 +50,13 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-0769AD?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<p>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aiow-dev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&layout=compact&theme=dracula">
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Aiow-dev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&layout=compact&theme=dracula">
 </p>
 
 <img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github-contribution-grid-snake.svg" width="100%">
