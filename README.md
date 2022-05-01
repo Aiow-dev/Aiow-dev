@@ -1,20 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=0480FF&lines=Hi%2C+I'm+Ilya+Tsybulenok!)](https://git.io/typing-svg)
 
-<!--
-**Aiow-dev/Aiow-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&reversal=false&height=230&text=Aiow-dev&fontColor=fcefee&desc=Python%20developer&animation=fadeIn&&color=0:0480FF,100:2F238B&fontAlignY=30&descAlignY=50&fontAlign=78&descAlign=86" width="100%">
 
 <img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github_logo.gif" align="right">
@@ -39,6 +24,8 @@ Here are some ideas to get you started:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ## Development Tools
 
@@ -46,6 +33,7 @@ Here are some ideas to get you started:
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntellijIDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![SublimeText](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
 
@@ -61,12 +49,25 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-0769AD?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+## Statistics
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aiow-dev&theme=dracula&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Aiow-dev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D">
 <img src="https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact&theme=dracula">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&layout=compact&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&theme=dracula">
+
+## Social Media
+
+| Social Media | Address |
+| ------------ | ------------- |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | ilyatsyb@gmail.com |
+|![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)| ilyatsybulenok@outlook.com
+|![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)| @ilyushic
+|![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)| vk.com/ip_gnomic
 
 <img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github-contribution-grid-snake.svg" width="100%">
