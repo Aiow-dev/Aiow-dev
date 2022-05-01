@@ -1,4 +1,4 @@
-### Hi, I'm Ilya Tsybulenok! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=0480FF&lines=Hi%2C+I'm+Ilya+Tsybulenok!)](https://git.io/typing-svg)
 
 <!--
 **Aiow-dev/Aiow-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github_logo.gif" align="right">
 
-## Technologies:
+## Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLlite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -34,12 +35,13 @@ Here are some ideas to get you started:
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## OS&Distributives:
+## OS&Distributives
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## Development Tools
 
-## Development Tools:
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntellijIDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -47,8 +49,8 @@ Here are some ideas to get you started:
 ![SublimeText](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
 
+## Technologies I want to learn in the future
 
-## Technologies I want to learn in the future:
 ![PyPy](https://img.shields.io/badge/PyPy-193440?style=for-the-badge&logo=pypy&logoColor=white)
 ![PyUp](https://img.shields.io/badge/PyUp-9F55FF?style=for-the-badge&logo=pyup&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
