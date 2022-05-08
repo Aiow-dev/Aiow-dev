@@ -20,10 +20,11 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## OS&Distributives
+## OS&Distributions
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
@@ -53,13 +54,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aiow-dev&theme=dracula&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Aiow-dev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D">
-<img src="https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact&theme=dracula">
-</p>
+![StreakStats](http://github-readme-streak-stats.herokuapp.com?user=Aiow-dev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+![Stats](https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula)
+![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact&theme=dracula)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&theme=dracula">
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&theme=dracula)
 
 ## Social Media
 
