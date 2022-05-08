@@ -37,6 +37,7 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![SublimeText](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ## Technologies I want to learn in the future
 
@@ -62,12 +63,13 @@
 
 ## Social Media
 
-| Social Media                                                                                                                 | Address                            |
-| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                           | ilyatsyb@gmail.com                 |
-| ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) | ilyatsybulenok@outlook.com         |
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)                  | @ilyushic                          |
-| ![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)                                    | vk.com/ip_gnomic                   |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)                  | www.linkedin.com/in/ilyatsybulenok |
+| Social Media                                                                                                                 | Address                             |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                           | ilyatsyb@gmail.com                  |
+| ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) | ilyatsybulenok@outlook.com          |
+| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)                  | @ilyushic                           |
+| ![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)                                    | vk.com/ip_gnomic                    |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)                  | www.linkedin.com/in/ilyatsybulenok  |
+| ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)           | https://www.hackerrank.com/ilyatsyb |
 
 <img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github-contribution-grid-snake.svg" width="100%">
