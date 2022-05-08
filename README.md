@@ -62,11 +62,12 @@
 
 ## Social Media
 
-| Social Media | Address |
-| ------------ | ------------- |
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | ilyatsyb@gmail.com |
-|![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)| ilyatsybulenok@outlook.com
-|![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)| @ilyushic
-|![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)| vk.com/ip_gnomic
+| Social Media                                                                                                                 | Address                            |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                           | ilyatsyb@gmail.com                 |
+| ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) | ilyatsybulenok@outlook.com         |
+| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)                  | @ilyushic                          |
+| ![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)                                    | vk.com/ip_gnomic                   |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)                  | www.linkedin.com/in/ilyatsybulenok |
 
 <img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github-contribution-grid-snake.svg" width="100%">
