@@ -57,7 +57,7 @@
 
 ![StreakStats](http://github-readme-streak-stats.herokuapp.com?user=Aiow-dev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula)
-![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact&theme=dracula)
+![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact&theme=dracula)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&theme=dracula)
 
@@ -71,5 +71,6 @@
 | ![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)                                    | vk.com/ip_gnomic                    |
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)                  | www.linkedin.com/in/ilyatsybulenok  |
 | ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)           | https://www.hackerrank.com/ilyatsyb |
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)                           | ilyatsyb@gmail.com                  |
 
 <img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github-contribution-grid-snake.svg" width="100%">
