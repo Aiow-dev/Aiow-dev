@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&reversal=false&height=230&text=Aiow-dev&fontColor=fcefee&desc=Python%20developer&animation=fadeIn&&color=0:0480FF,100:2F238B&fontAlignY=30&descAlignY=50&fontAlign=78&descAlign=86" width="100%">
 
-<img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github_logo.gif" align="right">
-
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
