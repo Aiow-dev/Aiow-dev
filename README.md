@@ -1,7 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=0480FF&lines=Hi%2C+I'm+Ilya+Tsybulenok!)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?section=header&type=waving&reversal=false&height=230&text=Aiow-dev&fontColor=fcefee&desc=Python%20developer&animation=fadeIn&&color=0:0480FF,100:2F238B&fontAlignY=30&descAlignY=50&fontAlign=78&descAlign=86" width="100%">
-
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,24 +49,6 @@
 
 ## Statistics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aiow-dev&theme=dracula&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![StreakStats](http://github-readme-streak-stats.herokuapp.com?user=Aiow-dev&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&theme=dracula)
 ![WakaTimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact&theme=dracula)
-
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiow-dev&theme=dracula)
-
-## Social Media
-
-| Social Media                                                                                                                 | Address                             |
-| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                           | ilyatsyb@gmail.com                  |
-| ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) | ilyatsybulenok@outlook.com          |
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)                  | @ilyushic                           |
-| ![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)                                    | vk.com/ip_gnomic                    |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)                  | www.linkedin.com/in/ilyatsybulenok  |
-| ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)           | https://www.hackerrank.com/ilyatsyb |
-| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)                           | ilyatsyb@gmail.com                  |
-
-<img src="https://github.com/Aiow-dev/Aiow-dev/blob/output/github-contribution-grid-snake.svg" width="100%">
