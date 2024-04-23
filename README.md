@@ -28,5 +28,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aiow-dev&show_icons=true&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiow-dev&hide_progress=true&card_width=335" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiow-dev&hide_progress=true&card_width=200" />
 </a>
