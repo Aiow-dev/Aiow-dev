@@ -1,4 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=0480FF&lines=Hi%2C+I'm+Ilya+Tsybulenok!)](https://git.io/typing-svg)
+<div style="display: flex;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=0480FF&lines=Hi%2C+I'm+Ilya+Tsybulenok!" width="50%"></img>
+  <img src="https://www.codewars.com/users/Aiow-dev/badges/large" width="49%"></img>
+</div>
 
 ## Technologies
 
@@ -21,6 +24,3 @@
 ![SublimeText](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-
-## Statistics
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=IlyaT&layout=compact&theme=github_dark" style="width: 100%"></img>
