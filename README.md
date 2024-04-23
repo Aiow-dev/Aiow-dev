@@ -1,5 +1,5 @@
 <div style="display: flex;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=5C2D91&vCenter=true&random=false&width=400&height=35&lines=Aiow-dev+GitHub+profile"></img>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&background=2E2F31&vCenter=true&random=false&width=400&height=35&lines=Aiow-dev+GitHub+profile"></img>
   <img src="https://www.codewars.com/users/Aiow-dev/badges/large" width="40%"></img>
 </div>
 
